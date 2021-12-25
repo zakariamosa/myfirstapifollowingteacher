@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AWVIVqlcvXICPhxqSXZTrZ219zuGAbTjtARiDpZpab4=",
+  "Source": "myFirstRESTApi",
+  "BasePath": "_content/myFirstRESTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
